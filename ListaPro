@@ -1,0 +1,184 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Deportes", GOL TV
+https://live.televisiongratishd.com/tvplus2021/7_.m3u8?token=J4AzHF0lChSpdyaQpsM0dw&expires=1605594060
+
+#EXTINF:-1 group-title="Deportes", FOX SPORT
+https://telerium.live/ingest02/68388.m3u8?sf=bzcyWVluNXFVRQ==&token=gAUJ46wnl7pVfPRKed2XPQ&expires=1605575592&rnd=68388
+
+#EXTINF:-1 group-title="Deportes", FOX SPORT 2
+https://telerium.live/ingest013/53858.m3u8?sf=VjBid3dSazlGbA==&token=rjqKC5Mut9T1d21qIxtSKg&expires=1605575760&rnd=53858
+
+#EXTINF:-1 group-title="Deportes", FOX SPORT 3
+https://live.televisiongratishd.com/tvplus2021/14_.m3u8?token=Z4AonF01HM4mzjEpZe0WpQ&expires=1605597312
+
+#EXTINF:-1 group-title="Deportes", FOX SPORT PREMIUM
+https://live.televisiongratishd.com/tvplus2021/10_.m3u8?token=FV7duozeZDz3LFlemLTF9w&expires=1605597383
+
+#EXTINF:-1 group-title="Deportes", GOL
+https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=vcSrHWbdplEX69AhH5s_eQ&e=1605592662
+
+#EXTINF:-1 group-title="Deportes", TNT DEPORTES
+https://live.televisiongratishd.com/tvplus2021/9_.m3u8?token=3hRUB2_iVYR022hlL-yvKQ&expires=1605597481
+
+#EXTINF:-1 group-title="Deportes", ESPN DEPORTES
+https://live.televisiongratishd.com/tvplus2021/15_.m3u8?token=XTQNxfwA2WSd9H6a-y8XQA&expires=1605597569
+
+#EXTINF:-1 group-title="Deportes", ESPN PLUS
+https://live.televisiongratishd.com/tvplus2021/16_.m3u8?token=R2yizD9dXQ26DqDDwBh1Ig&expires=1605597598
+
+#EXTINF:-1 group-title="Deportes", ESPN 2
+https://live.televisiongratishd.com/tvplus2021/18_.m3u8?token=LOpjl_ll8YJrH3Ftx00a_Q&expires=1605597661
+
+#EXTINF:-1 group-title="Deportes", ESPN 3
+https://live.televisiongratishd.com/tvplus2021/19_.m3u8?token=8VhCtSCpG4pTxfGMdGkKPQ&expires=1605598847
+
+#EXTINF:-1 group-title="Deportes", ESPN BRASIL
+http://rec2.distv.net:25461/live/angelo/angelo/452.ts
+
+#EXTINF:-1 group-title="Deportes", DIRECTV SPORTS
+https://live.televisiongratishd.com/tvplus2021/20_.m3u8?token=mc3Wqc5cozqyJCdJ0m6Q-A&expires=1605599920
+
+#EXTINF:-1 group-title="Deportes", DIRECTV SPORTS 2
+https://live.televisiongratishd.com/tvplus2021/21_.m3u8?token=A_sqdVe7vg2Ic04W-k7_fw&expires=1605599970
+
+#EXTINF:-1 group-title="Deportes", DIRECTV SPORTS+
+https://live.televisiongratishd.com/tvplus2021/22_.m3u8?token=xe_plE6OQvN6Pm0dHySAkw&expires=1605600006
+
+#EXTINF:-1 group-title="Deportes", MOVISTAR DEPORTES
+https://live.televisiongratishd.com/tvplus2021/195_.m3u8?token=aMmBmuxnia9hOFn70Vg-xw&expires=1605600051
+
+#EXTINF:-1 group-title="Deportes", MOVISTAR FORMULA 1
+https://live.televisiongratishd.com/tvplus2021/199_.m3u8?token=bsZaWrlGTynLH2dKxmak3g&expires=1605600099
+
+#EXTINF:-1 group-title="Deportes", CANAL DEL FUTBOL
+https://live.televisiongratishd.com/tvplus2021/194_.m3u8?token=G_uOvFy_uqlKqvXGkahh3w&expires=1605600210
+
+#EXTINF:-1 group-title="Deportes", TyC Sports
+https://live.televisiongratishd.com/tvplus2021/11_.m3u8?token=P5dB9AH1XGv6E9bDvYiDmQ&expires=1605600310
+
+#EXTINF:-1 group-title="Deportes", BEIN SPORT LA LIGA
+https://live.televisiongratishd.com/tvplus2021/23_.m3u8?token=kHKGF77EUrUung9Mlt2x0A&expires=1605600527
+
+#EXTINF:-1 group-title="Deportes", BEIN SPORT 
+https://ul.cdn946.net:8443/hls/oecab2d8qutfsu7.m3u8?s=FdnuhqHir559bPZxQHHajA&e=1605600710
+
+#EXTINF:-1 group-title="Deportes", CARACOL
+https://ul.cdn946.net:8443/hls/oecab2d8qutfsu7.m3u8?s=FdnuhqHir559bPZxQHHajA&e=1605600710
+
+#EXTINF:-1 group-title="Cine", HBO
+http://rec2.distv.net:25461/live/angelo/angelo/471.ts
+
+#EXTINF:-1 group-title="Cine", HBO 2
+http://rec2.distv.net:25461/live/angelo/angelo/472.ts
+
+#EXTINF:-1 group-title="Cine", HBO FAMILY
+http://rec2.distv.net:25461/live/angelo/angelo/473.ts
+
+#EXTINF:-1 group-title="Cine", HBO MUNDI
+http://rec2.distv.net:25461/live/angelo/angelo/475.ts
+
+#EXTINF:-1 group-title="Cine", HBO PLUS
+http://rec2.distv.net:25461/live/angelo/angelo/474.ts
+
+#EXTINF:-1 group-title="Cine", HBO POP
+http://rec2.distv.net:25461/live/angelo/angelo/476.ts
+
+#EXTINF:-1 group-title="Cine", HBO SIGNATURE
+http://rec2.distv.net:25461/live/angelo/angelo/478.ts
+
+#EXTINF:-1 group-title="Cine", HBO EXTREME
+https://live.televisiongratishd.com/tvplus2021/35_.m3u8?token=4ka5EAPLbMdYYtL4Sx4rMw&expires=1605604824
+
+#EXTINF:-1 group-title="Cine", FOX
+http://rec2.distv.net:25461/live/angelo/angelo/457.ts
+
+#EXTINF:-1 group-title="Cine", FOX LIFE
+http://rec2.distv.net:25461/live/angelo/angelo/458.ts
+
+#EXTINF:-1 group-title="Cine", FOX PREMIUM
+http://rec2.distv.net:25461/live/angelo/angelo/461.ts
+
+#EXTINF:-1 group-title="Cine", FOX ACTION
+https://live.televisiongratishd.com/tvplus2021/37_.m3u8?token=_22w-Z9iwB3g6gDRAnd4Ig&expires=1605606043
+
+#EXTINF:-1 group-title="Cine", FOX SERIES
+https://live.televisiongratishd.com/tvplus2021/38_.m3u8?token=ARxHP4_H7kSRikLoZFA5kQ&expires=1605606099
+
+#EXTINF:-1 group-title="Cine", FOX MOVIES
+https://live.televisiongratishd.com/tvplus2021/68_.m3u8?token=-d9d79VqeXpeI6LNwcmojA&expires=1605606142
+
+#EXTINF:-1 group-title="Cine", SPACE
+https://live.televisiongratishd.com/tvplus2021/39_.m3u8?token=o8rmADzeTNOJWbmJCsdflA&expires=1605606186
+
+#EXTINF:-1 group-title="Cine", GOLDEN EDGE
+https://live.televisiongratishd.com/tvplus2021/74_.m3u8?token=LwV3CrFTI0Ah_IcLYosssg&expires=1605606355
+
+#EXTINF:-1 group-title="Cine", GOLDEN PLUS
+https://live.televisiongratishd.com/tvplus2021/73_.m3u8?token=svuwrtf7-mGDBQnM4y6uBg&expires=1605606413
+
+#EXTINF:-1 group-title="Cine", SONY
+https://live.televisiongratishd.com/tvplus2021/77_.m3u8?token=MW9CJ3CPix0LGGKBKHk_Ng&expires=1605606608
+
+#EXTINF:-1 group-title="Cine", CINE LATINO
+https://live.televisiongratishd.com/tvplus2021/84_.m3u8?token=Ew2tDY8lF_zWDNIhJJfaAQ&expires=1605606740
+
+#EXTINF:-1 group-title="Cine", AXN
+http://rec2.distv.net:25461/live/angelo/angelo/419.ts
+
+#EXTINF:-1 group-title="Cine", ESTUDIO UNIVERSAL
+http://rec2.distv.net:25461/live/angelo/angelo/512.ts
+
+#EXTINF:-1 group-title="Cine", TC PREMIUM
+http://rec2.distv.net:25461/live/angelo/angelo/519.ts
+
+#EXTINF:-1 group-title="Cine", TC ACTION
+http://rec2.distv.net:25461/live/angelo/angelo/515.ts
+
+#EXTINF:-1 group-title="Cine", WARNER CHANNEL
+http://rec2.distv.net:25461/live/angelo/angelo/532.ts
+
+#EXTINF:-1 group-title="Cine", TNT
+http://rec2.distv.net:25461/live/angelo/angelo/522.ts
+
+#EXTINF:-1 group-title="Cine", TNT SERIES
+http://rec2.distv.net:25461/live/angelo/angelo/523.ts
+
+#EXTINF:-1 group-title="Cine", SONY PT
+http://rec2.distv.net:25461/live/angelo/angelo/427.ts
+
+#EXTINF:-1 group-title="Entretenimiento", ANIMAL PLANET
+http://rec2.distv.net:25461/live/angelo/angelo/417.ts
+
+#EXTINF:-1 group-title="Entretenimiento", DISCOVERY SCIENCE
+http://rec2.distv.net:25461/live/angelo/angelo/442.ts
+
+#EXTINF:-1 group-title="Adulto", VENUS +18
+https://live.televisiongratishd.com/tvplus2021/126_.m3u8?token=-YjtgrpR6RL6QkOvm0thLA&expires=1605606242
+
+#EXTINF:-1 group-title="Adulto", BRAZZER TV +18
+https://live.televisiongratishd.com/tvplus2021/135_.m3u8?token=dw6jt-52eTHZoytt6up5Rg&expires=1605606305
+
+#EXTINF:-1 group-title="Adulto", DORCEL +18
+http://myiptv.online/live/phelipe/phelipe/71227.ts
+
+#EXTINF:-1 group-title="Adulto", CANDY +18
+http://myiptv.online/live/phelipe/phelipe/71225.ts
+
+#EXTINF:-1 group-title="Adulto", JAPAN +18
+http://myiptv.online/live/phelipe/phelipe/76649.ts
+
+#EXTINF:-1 group-title="Adulto", EROX +18
+http://myiptv.online/live/phelipe/phelipe/71228.ts
+
+#EXTINF:-1 group-title="Adulto", ADULT LATIN +18
+http://myiptv.online/live/phelipe/phelipe/40268.ts
+
+#EXTINF:-1 group-title="Adulto", CENTROXCENTRO +18
+http://myiptv.online/live/phelipe/phelipe/71226.ts
+
+#EXTINF:-1 group-title="Adulto", HADCORE +18
+http://myiptv.online/live/phelipe/phelipe/76663.ts
+
+#EXTINF:-1 group-title="Adulto", JASMINTV +18
+http://myiptv.online/live/phelipe/phelipe/76941.ts
